@@ -1,0 +1,25 @@
+body{
+    background: url('accomodation.png') no-repeat center center/cover;
+    height: 900px
+    }
+.header{
+    
+    padding: 10px;
+    background-color: #D2DE32;
+    width:auto;
+    height: fit-content;
+    font-family: Georgia, serif;
+}
+/*login form*/
+.Accomodation{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 700px;
+    align-items: center;
+    border: 1px solid #ffffddc0;
+    margin-top: 30px;
+    background-color: #ffffddd4;
+    box-shadow: inset -5px -5px #ffffddc0;
+    border-radius: 25px;
+}
